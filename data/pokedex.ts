@@ -2916,6 +2916,18 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		color: "Purple",
 		eggGroups: ["Ditto"],
 	},
+	ballz: {
+		num: 9999,
+		name: "Ballz",
+		types: ["Normal"],
+		gender: "N",
+		baseStats: { hp: 999, atk: 999, def: 48, spa: 48, spd: 48, spe: 48 },
+		abilities: { 0: "Limber", H: "Imposter" },
+		heightm: 0.3,
+		weightkg: 4,
+		color: "Purple",
+		eggGroups: ["Ditto"],
+	},
 	eevee: {
 		num: 133,
 		name: "Eevee",
