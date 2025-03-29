@@ -2926,7 +2926,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		heightm: 0.3,
 		weightkg: 4,
 		color: "Purple",
-		eggGroups: ["Ditto"],
+		eggGroups: ["Bug,Grass"],
 	},
 	eevee: {
 		num: 133,
